@@ -1,0 +1,4 @@
+env/
+venv/
+*_Annotated_Output.mp4
+*_Summary.txt
